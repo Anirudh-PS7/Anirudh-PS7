@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Anirudh-PS7
-- 👀 I’m interested in programming and doing other computer related stuff
-- 🌱 I’m currently pursuing a degree in BSc. Computer Science
+- 👀 I’m interested in programming and researching other computer related stuff
+- 👀 Have intermdiate computer knowledge
+- 🌱 I’m currently pursuing a degree in BSc. Computer Science (First Year)
 - 💞️ I’m from Kerala, India
 - 📫 How to reach me - anirudhps23406@gmail.com (Gmail)
 - 😄 Pronouns: He/Him
